@@ -24,6 +24,6 @@ int main()
 
 // wypisujemy zaszyfrowany tekst
 
-  cout << s << endl << endl;
+  
   return 0;
 } 
