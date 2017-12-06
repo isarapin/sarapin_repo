@@ -24,6 +24,6 @@ long a[];
 
 // wypisujemy zaszyfrowany tekst
 
-  cout << s << endl << endl;
+  
   return 0;
 } 

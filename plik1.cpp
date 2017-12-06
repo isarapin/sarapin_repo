@@ -7,8 +7,13 @@ using namespace std;
 
 int main()
 {
+<<<<<<< HEAD
 char ch12;
   unsigned int g,i,n,w;
+=======
+
+  unsigned int g,i,n,w, ii2;
+>>>>>>> master
   bool * S;
 
   cin >> n;

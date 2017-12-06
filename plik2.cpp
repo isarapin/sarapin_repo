@@ -4,7 +4,7 @@
 
 using namespace std;
 
-int main()
+int main() //To jest funkcja, w ktorej wszystko sie odbywa
 {
   string s;
   unsigned i;

@@ -11,6 +11,10 @@ int PrzeSzukaj(int T[], int n, int k, int p)
   return -1;
 }
 
+int funkcja() 
+{
+}
+
 int main()
 {
   int * Z,n,k,i;

@@ -63,19 +63,7 @@ int main()
 
   // obliczamy fn
 
-  if(!n) f = "0";
-  else if(n == 1) f = "1";
-  else
-  {
-    f0 = "0";
-    f1 = "1";
-    for(i = 2; i <= n; i++)
-    {
-      f  = dodaj(f0,f1);
-      f0 = f1;
-      f1 = f;
-    }
-  }
+
 
   // wyœwietlamy wynik
 
