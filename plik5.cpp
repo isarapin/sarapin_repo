@@ -3,7 +3,7 @@
 
 using namespace std;
 
-int Szukaj(int T[], int n, int k, int p)
+int PrzeSzukaj(int T[], int n, int k, int p)
 {
   for(int i = p; i < n; i++)
     if(T[i] == k) return i;
