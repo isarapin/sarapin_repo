@@ -6,7 +6,7 @@ using namespace std;
 
 // Oblicza sumê podanych liczb
 //----------------------------
-string dodaj(string & x, string & y)
+string dodaj(string & x, string & y, string &z)
 {
   string z;
   int p,w,i,j,k,n;
