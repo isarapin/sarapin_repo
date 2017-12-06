@@ -11,7 +11,7 @@ int main()
 
   // odczytujemy tekst
 
-  getline(cin,s);
+
 
   // zamieniamy miejscami litery
 
