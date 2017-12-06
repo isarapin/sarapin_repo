@@ -21,7 +21,6 @@ int main()
   string szyfr,s,lacznica;
 
 
-// odczytujemy konfiguracjê pierœcieni szyfruj¹cych
 
   cin >> n;
 
