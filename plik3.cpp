@@ -10,7 +10,7 @@ const int N = 40; // d³ugoœæ ³añcucha s
 
 int main()
 {
-  string s;
+  string s="ilovegit";
   int i,j,k,iP,iL;
   bool t;
 
