@@ -8,7 +8,7 @@ using namespace std;
 //----------------------------
 string dodaj(string & x, string & y)
 {
-  string z;
+  
   int p,w,i,j,k,n;
 
   i = x.length();

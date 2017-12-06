@@ -8,7 +8,7 @@ int main()
 {
   string s;
   int i;
-
+long a[];
 // odczytujemy wiersz znaków
 
   getline(cin,s);

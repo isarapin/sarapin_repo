@@ -7,6 +7,7 @@ using namespace std;
 
 int main()
 {
+char ch12;
   unsigned int g,i,n,w;
   bool * S;
 
