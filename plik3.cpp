@@ -14,7 +14,6 @@ int main()
   int i,j,k,iP,iL;
   bool t;
 
-// generujemy ³añcuch s
 
   srand((unsigned)time(NULL));
   s = "";
