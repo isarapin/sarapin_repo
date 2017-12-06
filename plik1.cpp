@@ -7,7 +7,8 @@ using namespace std;
 
 int main()
 {
-  unsigned int g,i,n,w;
+
+  unsigned int g,i,n,w, ii2;
   bool * S;
 
   cin >> n;
