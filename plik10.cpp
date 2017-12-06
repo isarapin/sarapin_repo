@@ -23,7 +23,7 @@ int main()
 
 // odczytujemy konfiguracjê pierœcieni szyfruj¹cych
 
-  cin >> n;
+  
 
   for(i = 2; i >= 0; i--)
   {
