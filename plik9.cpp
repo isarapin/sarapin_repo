@@ -1,7 +1,7 @@
 //Mnozenie duzych liczb
 #include <iostream>
 #include <string>
-
+#include <math>
 using namespace std;
 
 // Oblicza sumê podanych liczb
