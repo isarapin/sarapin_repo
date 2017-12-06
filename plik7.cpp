@@ -4,7 +4,7 @@
 #include <string>
 
 using namespace std;
-// jakis komentarz
+
 int main()
 {
   string s,ss;
